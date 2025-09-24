@@ -170,21 +170,6 @@ Andrómeda: ¡Despegó! (-10 de combustible)
 
 ---
 
-## 🚀 Subir a GitHub
-
-```bash
-git init
-git add .
-git commit -m "TP3 POO: proyecto NetBeans completo"
-git branch -M main
-git remote add origin https://github.com/<tu-usuario>/TP3_POO_NetBeans.git
-git push -u origin main
-```
-
-> Asegurate de que el repositorio sea **público** si lo tenés que entregar con enlace.
-
----
-
 ## 📄 Autor
 
 Matias Ariel Deluca
